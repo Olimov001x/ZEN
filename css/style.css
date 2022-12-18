@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+.nav-left{
+    gap: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-right{
+    margin-top: 15px;
+ 
+    gap: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 48px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 12px 32px;
+    line-height: 25px;
+    text-align: center;
+    color: #222222;
+}
+.nav__right{
+    margin-top: 40px;
+
+}
+.nav__left h1{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 50px;
+    color: #222222;
+    margin-top: 33px;
+}
+.nav__left p{
+    margin-top: 23px;
+}
+.nav__left img{
+    margin-top: 15px;
+}
+.navbar__1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.class{
+    gap: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.class img{
+    
+    margin-bottom: 15px;
+}
+.img{
+    display: flex;
+    align-items: initial;
+    justify-content: end;
+}
+.nav-left__2{
+    margin-top: 23px;
+}
+.navbar__2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p{
+    margin-top: 12px;
+}
+.nav-right__2 p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+
+
+    color: #222222;
+    margin-top: 22px;
+}
+.nav-right__2 h1{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #222222;
+}
+
+.navbar__3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p3{
+    margin-top: 22px;
+}
+.left3 p{
+    margin-top: 15px;
+}
+.images__5{
+    margin-right: 20px;
+}
+.navbar__4{
+    margin-left: 425px;
+    margin-top: 150px;
+}
+.nav-center__4{
+    width: 580px;
+    text-align: center;
+}
+.btn4{
+    margin-top: 30px;
+    padding: 12px 32px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 48px;
+    line-height: 25px;
+    color: #222222;
+}
+.icons{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-left__6 h3{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #222222;
+}
+.navbar__6{
+    margin-top: 47px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.p6{
+    margin-top: 22px;
+    width: 475px;
+}
+.nav-right__6{
+    margin-top: 50px;
+}
+.nav-left__6 img{
+    margin-top: 28px;
+}
+.nav-left__7{
+    margin-top: 70px;
+}
+.nav-right__7{
+    width: 480px;
+}
+.navbar__7{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p_7{
+    margin-top: 20px;
+}
+.p__7{
+    margin-top: 10px;
+}
+.navbar__8{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-left__8{
+    width: 480px;
+}
+.p_8{
+    margin-top: 20px;
+}
+.p__8{
+    margin-top: 10px;
+}
+.nav-left__8 h2{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #222222;
+}
+.nav-right__9{
+    width: 480px;
+}
+.nav-right__9 p{
+    margin-top: 15px;
+}
+.navbar__9{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-right__9 img{
+    margin-top: 32px;
+}
+.images{
+    margin-right: 20px;
+}
+.footer p{
+    margin: 15px;
+}
+.footer{
+    margin-top: 95px;   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer h5{
+    margin-bottom: 25px;
+}
+.oxiri-left{
+    margin-top: 55px;
+}
+.oxiri-left p{
+    width: 836px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #AAAAAA;
+}
+.oxiri{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.oxiri-right img{
+    margin-top: 60px;
+}
+.qwerty{
+    margin-top: 20px;
+}
